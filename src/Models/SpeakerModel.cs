@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CoreCodeCamp.Models.Models
 {
-    public class SPeakerModel
+    public class SpeakerModel
     {
         public int SpeakerId { get; set; }
         public string FirstName { get; set; }
