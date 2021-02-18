@@ -34,7 +34,8 @@ namespace CoreCodeCamp
       {
         app.UseDeveloperExceptionPage();
       }
-      
+
+      //app.UseHttpsRedirection();
       
       
       app.UseMvc();
